@@ -18,7 +18,9 @@ The goal is to practice end-to-end skills: ingestion, contracts, streaming (Kafk
 
 ---
 
-## 📂 Repository Structure
+# Repository Structure
+
+```
 .
 ├── contracts/                # Event schemas & examples
 │   ├── event_crypto_price.schema.json
@@ -39,6 +41,7 @@ The goal is to practice end-to-end skills: ingestion, contracts, streaming (Kafk
 ├── producer/                 # API fetcher + Kafka producer
 │   └── main.py
 └── README.md
+```
 
 ---
 
